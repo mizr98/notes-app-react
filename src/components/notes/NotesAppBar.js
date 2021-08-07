@@ -26,7 +26,7 @@ export const NotesAppBar = () => {
 
     return (
         <div className="notes__appbar">
-            <span>23</span>
+            <span>{date}</span>
 
             <input
                 id="fileSelector"
